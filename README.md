@@ -1,2 +1,3 @@
 # Hello-world
-my first repositpry
+my first repository
+I've made some changes to a file
